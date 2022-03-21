@@ -1,0 +1,71 @@
+@import "null.css";
+@import "fonts.css";
+@import url("https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap");
+body {
+	font-size: 20px;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-shadow: 5px 5px 5px #000, 15px 15px 15px rgb(194, 34, 34);
+}
+h1 {
+	font-family: "Palette Mosaic";
+	text-align: center;
+	color: rgb(173, 32, 32);
+	font-size: 65px;
+}
+.just {
+	font-style: italic;
+	color: gray;
+	text-align: right;
+}
+h2 {
+	text-align: right;
+}
+.just-t {
+	font-family: "Hurricane";
+	color: rgba(16, 90, 16, 0.664);
+	text-align: right;
+	font-size: 30px;
+	font-weight: 900;
+}
+.lor {
+	line-height: 1.5;
+	text-indent: 25px;
+	letter-spacing: 2px;
+	word-spacing: 10px;
+}
+.shed {
+	font-size: 40px;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-decoration: line-through;
+	text-shadow: 0px 0px 10px #000, 0px 5px 10px #000, 0px -5px 10px #000;
+	color: white;
+}
+.test {
+	font-size: 30px;
+	font-family: "Cony";
+	font-style: italic;
+}
+.task {
+	font-family: "Cony";
+	font-style: normal;
+	font-size: 30px;
+}
+.tank {
+	font-family: "Cony";
+	font-size: 30px;
+	font-weight: 700;
+}
+.block {
+	font-family: "Hurricane";
+	font-size: 40px;
+	text-align: center;
+}
+a {
+	color: blue;
+}
